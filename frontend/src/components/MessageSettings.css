@@ -1,0 +1,24 @@
+.message-settings {
+    margin: 20px;
+  }
+  
+  .message-settings h4 {
+    margin-bottom: 10px;
+  }
+  
+  .message-settings label {
+    display: block;
+    margin: 8px 0;
+  }
+  .tooltip {
+    font-size: 0.8em;
+    color: #777;
+    margin-top: 5px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+  }
+  
